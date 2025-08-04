@@ -41,4 +41,4 @@ Many college students struggle to find:
 
 ---
 
-**ProjectPal** - Find your tribe
+**ProjectPal** - find your tribe
