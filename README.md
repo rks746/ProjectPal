@@ -38,3 +38,7 @@ Many college students struggle to find:
 | Frontend       | Backend     | Auth           | Database     | Deployment      |
 |----------------|-------------|----------------|--------------|-----------------|
 | React + Tailwind | Node.js / Express (Planned) | Firebase Auth | Firestore       | Vercel / Firebase Hosting |
+
+---
+
+**ProjectPal** - Find your tribe
