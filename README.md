@@ -33,4 +33,4 @@ Many college students struggle to find:
 
 ---
 
-**ProjectPal** - find your tribe
+**ProjectPal** - <i>Find Your Tribe</i>
